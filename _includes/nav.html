@@ -1,15 +1,15 @@
-<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.title == "Főoldal" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.title != "Home" %}
+        {% if page.title != "Főoldal" %}
             <li class="item">
-                <a class="link" href="{{ site.url }}/">Home</a>
+                <a class="link" href="{{ site.url }}/">Főoldal</a>
             </li>
         {% endif %}
 
         {% if site.blog == true %}
             {% if page.title != "Információ" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/blog">Blog</a>
+                    <a class="link" href="{{ site.url }}/blog">Információ</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -25,7 +25,7 @@
         {% if site.about == true %}
             {% if page.title != "Rólunk" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/about">About</a>
+                    <a class="link" href="{{ site.url }}/about">Rólunk</a>
                 </li>
             {% endif %}
         {% endif %}
