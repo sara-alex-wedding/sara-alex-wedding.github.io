@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
+author: nyulsara, olaralex
 description: Markdown summary with different options
 ---
 
