@@ -8,7 +8,7 @@ description: Esküvői honlap
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: /assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,13 +58,13 @@ authors:
         name: Nyúl Sára
         bio: Van egy kócos nagy hajkoronám és sok mintás zoknim és hat testvérem
         external-image: false
-        picture: assets/images/sara.jpg
+        picture: /assets/images/sara.jpg
         facebook: nyul.sara
     olaralex:
         name: Olar Alex
         bio: Egy keresztény fizikus aki nagyon szeret tanulni és enni
         external-image: false
-        picture: assets/images/alex.jpg
+        picture: /assets/images/alex.jpg
         twitter: qbeer666
 
 # do you want a larger site? change the option below
