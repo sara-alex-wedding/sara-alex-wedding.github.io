@@ -9,7 +9,7 @@ tag:
 - előregisztráció
 star: true
 category: blog
-author: alexolar
+author: olaralex
 description: Az esküvőnkre való előregisztráció igényfelmérés céllal
 ---
 
