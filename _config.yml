@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sara-alex-wedding.github.io
+url: https://sara-es-alex.info
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,8 +34,8 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
+# facebook: myfacebook
+twitter: qbeer666
 # google: mygoogle
 instagram: nyulsara
 # pinterest: mypinterest
