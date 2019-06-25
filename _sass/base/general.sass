@@ -5,6 +5,11 @@ body, html
 	-moz-background-size: cover
 	-o-background-size: cover
 	background-size: cover
+	background-attachment: fixed
+    background-position: center center
+
+    @media #{$mobile}
+        background-attachment: scroll
 
 body
 	line-height: 1
