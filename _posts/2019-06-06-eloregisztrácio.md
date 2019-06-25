@@ -5,8 +5,8 @@ date: 2019-06-06 11:30
 image: "/assets/images/eskuvo-eloregisztracio.jpg"
 headerImage: true
 tag:
-- esküvő
-- előregisztráció
+    - esküvő
+    - előregisztráció
 star: true
 category: blog
 author: olaralex
@@ -15,4 +15,8 @@ description: Az esküvőnkre való előregisztráció igényfelmérés céllal
 
 # Előregisztáció
 
-Hamarosan...
+Ez egy igényfelmérő lap, kérlek töltsd ki, hogy a legmegfelelőbben elláthassunk titeket.
+
+<h1>
+    <a href="https://forms.gle/AKuppshF3o371iDq9">KATTINTS IDE!</a>
+</h1>
