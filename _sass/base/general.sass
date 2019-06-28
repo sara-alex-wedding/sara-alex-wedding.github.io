@@ -1,15 +1,15 @@
 body, html
 	font-size: 62.5%
 	background: url(../assets/images/wedding.jpg) no-repeat center center fixed
-	-webkit-background-size: cover
+	overflow: hidden
 	-moz-background-size: cover
 	-o-background-size: cover
+	-webkit-background-size: cover
 	background-size: cover
-	background-attachment: fixed
-    background-position: center center
+	background-repeat: no-repeat
 
-    @media #{$mobile}
-        background-attachment: scroll
+	@media #{$mobile}
+		background-attachment: scroll
 
 body
 	line-height: 1
