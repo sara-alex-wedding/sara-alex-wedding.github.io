@@ -1,16 +1,16 @@
 ---
-title: Előregisztráció
+title: Regisztráció
 layout: post
 date: 2019-06-06 11:30
 image: "/assets/images/eskuvo-eloregisztracio.jpg"
 headerImage: true
 tag:
     - esküvő
-    - előregisztráció
+    - regisztráció
 star: true
 category: blog
 author: olaralex
-description: Az esküvőnkre való előregisztráció igényfelmérés céllal
+description: Az esküvőnkre való regisztráció
 ---
 
 # Regisztáció
@@ -23,15 +23,11 @@ Minden valamire való infó itt van.
 
 ---
 
----
-
 **A helyszín**
 
 _Cím: 19., Masarikova, Pačir 24342, Szerbia_
 
 **_Dátum: 2019. október 4-6._**
-
----
 
 ---
 
