@@ -2,7 +2,7 @@
 
 Make it work...
 
-
+Dev start: `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
 
 ---
 
