@@ -52,7 +52,7 @@ Egy random utca, random lámpája alá vezetett Alex mikor már hazafelé vettü
 
 Majd megkérdezte, lennék-e a felesége. Olyan biztos volt a kérdése. S én boldogan válaszoltam, hogy leszek. Előtte azért megkérdeztem, hogy ezt most igazából kérdezi-e. De a zsebből kihúzott gyűrű minden kétséget eloszlatott. Igen. Ez igazi.
 
-![eljegyzes](./assets/images/eljegyzes.JPG)
+![eljegyzes](./assets/images/eljegyzes.jpg)
 
 ***Október 5***-ét pedig már nagyon várjuk! Meg téged is ♥
 Ha van kérdésed rólunk, kérdezz! Legyél kíváncsi, mi pedig válaszolunk!
