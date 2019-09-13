@@ -2,7 +2,7 @@
 title: Ajándék ötletek
 layout: post
 date: 2019-09-12 9:00
-image: "/assets/images/ajandek.jpg"
+image: "/assets/images/holegballon.JPG"
 headerImage: true
 tag:
     - esküvő
