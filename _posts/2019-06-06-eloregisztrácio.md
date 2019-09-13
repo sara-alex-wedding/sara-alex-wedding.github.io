@@ -57,5 +57,5 @@ Ha bármilyen kérdés merülne fel: +36205880655 (Alex), nyul.sara@gmail.com
 ### **_Kérlek regisztráljatok itt az alábbi linken:_**
 
 <h1>
-    <a href="https://forms.gle/AKuppshF3o371iDq9">REGISZTÁCIÓ!</a>
+    <a href="https://forms.gle/AKuppshF3o371iDq9">REGISZTRÁCIÓ!</a>
 </h1>
