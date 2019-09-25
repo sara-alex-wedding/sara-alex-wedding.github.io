@@ -2,7 +2,7 @@
 title: Esküvői részletek
 layout: post
 date: 2019-09-25 9:00
-image: "/assets/images/wedding.JPG"
+image: "/assets/images/wedding.jpg"
 headerImage: true
 tag:
     - esküvő
